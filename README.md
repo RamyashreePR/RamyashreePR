@@ -8,7 +8,7 @@ I have 2.5+ years of experience in manual functional testing, REST API validatio
 
 ### 🚀 Featured project
 
-**[Bug Report Triage Bot](https://github.com/RamyashreePR/bug-triage-bot)** — *live: [ramya-bug-triage-bot.streamlit.app](https://ramya-bug-triage-bot.streamlit.app)*
+**[Bug Report Triage Bot](https://github.com/RamyashreePR/bug-triage-bot)** — *live: [bug-triage-bot-ai.streamlit.app](https://bug-triage-bot-ai.streamlit.app)*
 
 An AI tool that scores incoming bug reports against a 7-point quality rubric, classifies severity, and suggests team routing. Built with Python, Pydantic, and the Anthropic Claude API using tool use for guaranteed structured JSON output. Deployed on Streamlit Community Cloud.
 
